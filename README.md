@@ -1,4 +1,4 @@
-# CHARACTERISTICS-OF-PN-JUNCTION-DIODE
+ # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
